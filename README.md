@@ -1,4 +1,4 @@
-# Calcolatore Delay
+# BPM
 
 Strumento web 100% client-side: dal **BPM** ai **tempi di delay e riverbero** in millisecondi.
 Gli stessi valori servono per delay, **pre-delay** e **coda del riverbero**. Note dritte, puntate e
